@@ -1,0 +1,3 @@
+[submodule "keeperAPP"]
+	path = keeperAPP
+	url = git@github.com:afonsopedroso/keeperApp.git
